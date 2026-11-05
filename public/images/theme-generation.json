@@ -1,0 +1,90 @@
+{
+  "generator": "Built-in image_gen",
+  "reference": "/exmaple.png",
+  "assets": [
+    {
+      "name": "hero-lady-justice",
+      "source": "C:\\Users\\PC\\.codex\\generated_images\\01a1ad1c-ede4-7032-80bc-bb218fff9a2f\\exec-c258980c-3094-42ba-a515-0bb0107a1237.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: production website photograph for Elizabeth Nijjar Law. Input image: supplied website screenshot is a STYLE REFERENCE only; generate a standalone full-bleed photograph, never a screenshot, collage or mockup. Match its premium deep navy, antique gold, warm walnut, cream palette and realistic materials. Wide website hero photograph, landscape 1536x1024. Antique bronze blindfolded Lady Justice statue on the RIGHT half, accurately suspended balance scales, navy leather law books with plain gold bands on far right, softly blurred green indoor plant. LEFT half dark uncluttered navy office background with generous space for white website headline added later. Warm brass highlights, elegant cinematic side lighting. Constraints: no text, lettering, watermarks, logos, borders or graphics.",
+      "output": "/images/hero-lady-justice-theme.jpg"
+    },
+    {
+      "name": "gavel",
+      "source": "C:\\Users\\PC\\.codex\\generated_images\\01a1ad1c-ede4-7032-80bc-bb218fff9a2f\\exec-8974a453-b57e-4779-8456-365e8619befa.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: production website photograph for Elizabeth Nijjar Law. Input image: supplied website screenshot is a STYLE REFERENCE only; generate a standalone full-bleed photograph, never a screenshot, collage or mockup. Match its premium deep navy, antique gold, warm walnut, cream palette and realistic materials. Landscape 1536x1024 close-up photograph of polished dark walnut judge's gavel with a brushed brass band poised diagonally above a round wooden sound block on an oak desk. Blurred navy leather law books with subtle blank gold bands behind, small soft green plant at left. Match the about-section photograph of the reference. Constraints: no text, lettering, watermarks, logos, borders or graphics.",
+      "output": "/images/gavel-theme.jpg"
+    },
+    {
+      "name": "divorce-hands",
+      "source": "C:\\Users\\PC\\.codex\\generated_images\\01a1ad1c-ede4-7032-80bc-bb218fff9a2f\\exec-a6a31c42-df6c-49ce-ad26-f87bc6db0e6d.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: production website photograph for Elizabeth Nijjar Law. Input image: supplied website screenshot is a STYLE REFERENCE only; generate a standalone full-bleed photograph, never a screenshot, collage or mockup. Match its premium deep navy, antique gold, warm walnut, cream palette and realistic materials. Landscape 1536x1024 editorial close-up: adult hands resting thoughtfully beside two simple gold wedding bands and a closed navy folder on a warm walnut law office desk. Sensitive respectful divorce consultation mood; no faces, no drama. Authentic restrained detail, warm natural window light. Constraints: no text, lettering, watermarks, logos, borders or graphics.",
+      "output": "/images/divorce-hands-theme.jpg"
+    },
+    {
+      "name": "signing-agreement",
+      "source": "C:\\Users\\PC\\.codex\\generated_images\\01a1ad1c-ede4-7032-80bc-bb218fff9a2f\\exec-3c627443-b9a8-4be3-835e-16de594d18f3.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: production website photograph for Elizabeth Nijjar Law. Input image: supplied website screenshot is a STYLE REFERENCE only; generate a standalone full-bleed photograph, never a screenshot, collage or mockup. Match its premium deep navy, antique gold, warm walnut, cream palette and realistic materials. Landscape 1536x1024 editorial close-up of a person's hand using a refined gold-trimmed fountain pen to sign a blank cream agreement on a walnut desk. A second adult's hands rest naturally nearby, tailored navy sleeves, blurred navy law books. Respectful calm legal consultation. Papers must have no readable text. Constraints: no text, lettering, watermarks, logos, borders or graphics.",
+      "output": "/images/signing-agreement-theme.jpg"
+    },
+    {
+      "name": "family-sunset",
+      "source": "C:\\Users\\PC\\.codex\\generated_images\\01a1ad1c-ede4-7032-80bc-bb218fff9a2f\\exec-3a25799d-1687-4498-968b-f0bd5fe2204e.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: production website photograph for Elizabeth Nijjar Law. Input image: supplied website screenshot is a STYLE REFERENCE only; generate a standalone full-bleed photograph, never a screenshot, collage or mockup. Match its premium deep navy, antique gold, warm walnut, cream palette and realistic materials. Landscape 1536x1024 realistic editorial photograph of two adult parents and one young child walking together along a Vancouver waterfront path, seen from behind at a natural distance. The child between the parents holding their hands. Warm late afternoon sun, calm blue sea, distant soft mountains, subtle navy clothes and golden light; reassuring family connection. Constraints: no text, lettering, watermarks, logos, borders or graphics.",
+      "output": "/images/family-sunset-theme.jpg"
+    },
+    {
+      "name": "child-support-paperwork",
+      "source": "C:\\Users\\PC\\.codex\\generated_images\\01a1ad1c-ede4-7032-80bc-bb218fff9a2f\\exec-e919e9a3-8c3c-4984-bf4c-bcebae5ef882.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: production website photograph for Elizabeth Nijjar Law. Input image: supplied website screenshot is a STYLE REFERENCE only; generate a standalone full-bleed photograph, never a screenshot, collage or mockup. Match its premium deep navy, antique gold, warm walnut, cream palette and realistic materials. Landscape 1536x1024 editorial still life of a neatly arranged blank cream family budgeting document, a simple calculator without legible digits, gold pen, small natural wooden toy house on a walnut legal desk. Navy folder and blurred navy law books. Warm window light, practical compassionate child support theme, no legible writing. Constraints: no text, lettering, watermarks, logos, borders or graphics.",
+      "output": "/images/child-support-paperwork-theme.jpg"
+    },
+    {
+      "name": "spousal-support-meeting",
+      "source": "C:\\Users\\PC\\.codex\\generated_images\\01a1ad1c-ede4-7032-80bc-bb218fff9a2f\\exec-c5683e3e-c14c-4b8b-9d4c-1bcaa0ee6e7a.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: production website photograph for Elizabeth Nijjar Law. Input image: supplied website screenshot is a STYLE REFERENCE only; generate a standalone full-bleed photograph, never a screenshot, collage or mockup. Match its premium deep navy, antique gold, warm walnut, cream palette and realistic materials. Landscape 1536x1024 professional editorial photograph in a refined law office, female legal adviser in a navy jacket sitting across a desk from an adult client, both in side profile at a natural distance, having a calm respectful conversation over a closed cream folder. Navy bookcase, warm walnut, brass accents and soft window light. Anonymous fictional people, not portraits of any real lawyer. Constraints: no text, lettering, watermarks, logos, borders or graphics.",
+      "output": "/images/spousal-support-meeting-theme.jpg"
+    },
+    {
+      "name": "handshake",
+      "source": "C:\\Users\\PC\\.codex\\generated_images\\01a1ad1c-ede4-7032-80bc-bb218fff9a2f\\exec-b879e584-57e6-4625-a2df-0b4d48aec30d.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: production website photograph for Elizabeth Nijjar Law. Input image: supplied website screenshot is a STYLE REFERENCE only; generate a standalone full-bleed photograph, never a screenshot, collage or mockup. Match its premium deep navy, antique gold, warm walnut, cream palette and realistic materials. Landscape 1536x1024 editorial close-up of a natural anatomically correct handshake between a legal adviser and an adult client over a walnut desk. Navy suit sleeves, softly blurred law books and warm office light. Trustworthy reassuring mood, understated brass details, no faces. Constraints: no text, lettering, watermarks, logos, borders or graphics.",
+      "output": "/images/handshake-theme.jpg"
+    },
+    {
+      "name": "courthouse-columns",
+      "source": "C:\\Users\\PC\\.codex\\generated_images\\01a1ad1c-ede4-7032-80bc-bb218fff9a2f\\exec-7791562a-8a63-4a7b-9f4a-519fbacef758.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: production website photograph for Elizabeth Nijjar Law. Input image: supplied website screenshot is a STYLE REFERENCE only; generate a standalone full-bleed photograph, never a screenshot, collage or mockup. Match its premium deep navy, antique gold, warm walnut, cream palette and realistic materials. Landscape 1536x1024 architectural photograph of dignified classical courthouse limestone columns and broad stone steps, viewed from a low angle, evening gold light on sandstone and navy blue shadows. Generic courthouse without flags, emblems or signs; sophisticated premium law firm banner. Constraints: no text, lettering, watermarks, logos, borders or graphics.",
+      "output": "/images/courthouse-columns-theme.jpg"
+    },
+    {
+      "name": "office",
+      "source": "C:\\Users\\PC\\.codex\\generated_images\\01a1ad1c-ede4-7032-80bc-bb218fff9a2f\\exec-abccd39e-fe8b-4188-9ebe-a13a5dba525b.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: production website photograph for Elizabeth Nijjar Law. Input image: supplied website screenshot is a STYLE REFERENCE only; generate a standalone full-bleed photograph, never a screenshot, collage or mockup. Match its premium deep navy, antique gold, warm walnut, cream palette and realistic materials. Landscape 1536x1024 photorealistic inviting boutique law firm consultation room. Walnut desk, two cream upholstered guest chairs, navy shelves of plain navy leather books with subtle gold bands, tasteful small green plant, slim brass lamp, soft daylight through large windows. Empty room with no people, no signage, calm professional atmosphere. Constraints: no text, lettering, watermarks, logos, borders or graphics.",
+      "output": "/images/office-theme.jpg"
+    },
+    {
+      "name": "law-library",
+      "source": "C:\\Users\\PC\\.codex\\generated_images\\01a1ad1c-ede4-7032-80bc-bb218fff9a2f\\exec-ac4c7454-7e97-40a1-91c1-5eeb2f9c4814.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: production website photograph for Elizabeth Nijjar Law. Input image: supplied website screenshot is a STYLE REFERENCE only; generate a standalone full-bleed photograph, never a screenshot, collage or mockup. Match its premium deep navy, antique gold, warm walnut, cream palette and realistic materials. Landscape 1536x1024 cinematic architectural interior photograph of a sophisticated legal library, long shelves of navy and dark leather law books with restrained gold bands, walnut shelving, warm brass reading lamps, a clean study table. Soft window light and deep navy shadows; no legible book titles. Constraints: no text, lettering, watermarks, logos, borders or graphics.",
+      "output": "/images/law-library-theme.jpg"
+    },
+    {
+      "name": "books-and-pen",
+      "source": "C:\\Users\\PC\\.codex\\generated_images\\01a1ad1c-ede4-7032-80bc-bb218fff9a2f\\exec-013aba57-83bc-4457-a7cd-a21159c0bc23.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: production website photograph for Elizabeth Nijjar Law. Input image: supplied website screenshot is a STYLE REFERENCE only; generate a standalone full-bleed photograph, never a screenshot, collage or mockup. Match its premium deep navy, antique gold, warm walnut, cream palette and realistic materials. Landscape 1536x1024 refined editorial still life: stacked dark navy leather law books with restrained plain gold bands, elegant black-and-gold fountain pen lying diagonally on blank cream paper on a warm walnut desk. Shallow depth of field, soft daylight, premium restrained legal aesthetic, no readable titles or writing. Constraints: no text, lettering, watermarks, logos, borders or graphics.",
+      "output": "/images/books-and-pen-theme.jpg"
+    },
+    {
+      "name": "vancouver-skyline",
+      "source": "C:\\Users\\PC\\.codex\\generated_images\\01a1ad1c-ede4-7032-80bc-bb218fff9a2f\\exec-54e785b3-5a8d-492c-b928-bb43d07f6884.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: production website photograph for Elizabeth Nijjar Law. Input image: supplied website screenshot is a STYLE REFERENCE only; generate a standalone full-bleed photograph, never a screenshot, collage or mockup. Match its premium deep navy, antique gold, warm walnut, cream palette and realistic materials. Wide landscape 1536x1024 photorealistic Vancouver harbour skyline with recognisable Harbour Centre tower, blue distant North Shore mountains, calm waterfront, warm golden light and navy dusk atmosphere. Buildings concentrated on RIGHT side, LEFT half softly fading toward open dark navy harbour and sky, suitable for a shallow call-to-action banner with separate text overlay. No text. Constraints: no text, lettering, watermarks, logos, borders or graphics.",
+      "output": "/images/vancouver-skyline-theme.jpg"
+    },
+    {
+      "name": "og-image",
+      "source": "C:\\Users\\PC\\.codex\\generated_images\\01a1ad1c-ede4-7032-80bc-bb218fff9a2f\\exec-053f7335-3141-4a76-91ad-d438162eca95.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: production website photograph for Elizabeth Nijjar Law. Input image: supplied website screenshot is a STYLE REFERENCE only; generate a standalone full-bleed photograph, never a screenshot, collage or mockup. Match its premium deep navy, antique gold, warm walnut, cream palette and realistic materials. Landscape 1536x1024 editorial brand photograph for a premium family law firm's social sharing card: bronze blindfolded Lady Justice on right, polished walnut gavel and round sound block in lower center, plain navy law books with thin gold bands behind, softly lit walnut desk. Left third calm deep navy space, warm gold highlights, sophisticated photographic lighting. No letters, no logos, no website UI. Constraints: no text, lettering, watermarks, logos, borders or graphics.",
+      "output": "/images/og-image-theme.jpg"
+    }
+  ]
+}
