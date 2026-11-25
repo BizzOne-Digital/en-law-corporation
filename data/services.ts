@@ -325,7 +325,7 @@ export const services: Service[] = [
       },
       {
         title: "Unmarried spouses",
-        text: "Under BC’s Family Law Act, partners may have a claim after living in a marriage-like relationship for at least two years, or for less time if they have a child together.",
+        text: "Under BC’s Family Law Act, unmarried partners may qualify as spouses for family-law purposes if they have lived together in a marriage-like relationship for at least two years. If they have lived together for less than two years but have a child together, they may qualify as spouses for spousal support purposes. However, the two-year requirement generally applies to claims for division of property and debt.",
       },
       {
         title: "Time limits",
