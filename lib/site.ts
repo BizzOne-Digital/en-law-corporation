@@ -7,7 +7,7 @@ export const site = {
   phoneHref: "tel:+16045189232",
   email: "Elizabeth@enlaw.ca",
   emailHref: "mailto:Elizabeth@enlaw.ca",
-  addressLine1: "#100 – 7164 120 Street",
+  addressLine1: "7164 120th Street",
   addressLine2: "Surrey, BC V3W 3M8",
   licensing: "Licensed in British Columbia, Washington and California",
 } as const;

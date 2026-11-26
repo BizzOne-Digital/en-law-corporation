@@ -31,7 +31,7 @@ const legalServiceSchema = {
   email: site.email,
   address: {
     "@type": "PostalAddress",
-    streetAddress: "#100 – 7164 120 Street",
+    streetAddress: "7164 120th Street",
     addressLocality: "Surrey",
     addressRegion: "BC",
     postalCode: "V3W 3M8",
