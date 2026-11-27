@@ -1,4 +1,4 @@
-import { Landmark, Mail, MapPin, Phone } from "lucide-react";
+import { Landmark, Mail, MapPin, Phone, Printer } from "lucide-react";
 import { Container } from "@/components/ui/Container";
 import { ContactForm } from "@/components/ui/ContactForm";
 import { PageHero } from "@/components/ui/PageHero";
@@ -16,6 +16,7 @@ export const metadata = pageMetadata({
 
 const details = [
   { icon: Phone, label: "Phone", value: site.phone, href: site.phoneHref },
+  { icon: Printer, label: "Fax", value: site.fax },
   { icon: Mail, label: "Email", value: site.email, href: site.emailHref },
   { icon: MapPin, label: "Address", value: `${site.addressLine1}\n${site.addressLine2}` },
   { icon: Landmark, label: "Licensing", value: "British Columbia · Washington · California" },

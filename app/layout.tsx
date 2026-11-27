@@ -28,6 +28,7 @@ const legalServiceSchema = {
   url: site.url,
   image: `${site.url}/images/og-image-theme.jpg`,
   telephone: "+1-604-518-9232",
+  faxNumber: "+1-604-930-5201",
   email: site.email,
   address: {
     "@type": "PostalAddress",

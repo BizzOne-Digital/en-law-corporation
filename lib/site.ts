@@ -5,6 +5,7 @@ export const site = {
   url: "https://www.enlaw.ca",
   phone: "604.518.9232",
   phoneHref: "tel:+16045189232",
+  fax: "604.930.5201",
   email: "Elizabeth@enlaw.ca",
   emailHref: "mailto:Elizabeth@enlaw.ca",
   addressLine1: "7164 120th Street",
